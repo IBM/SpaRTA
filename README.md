@@ -6,7 +6,7 @@ This repo contains the code of our paper  [Sparsity May Be All You Need: Sparse 
 ## Overview
 SpaRTA is a new PEFT technique for adapting LLMs to domain-specific tasks that makes the resulting adapters easy to merge. 
 
-- It works by randomly choosing a very small number of scalar parameters to be updated during training, resulting in real memory saving and higher speeds during training
+- It works by randomly choosing a very small number of scalar parameters to be updated during training, resulting in real memory saving and faster training
 
 - It performs competitively with LoRA
 
