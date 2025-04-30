@@ -1,6 +1,6 @@
 <div align="center"><img src="assets/logo.png" width="200px"/></div> 
 
-# SpaRTA
+# Sparse Random parameTer Adaptation (SpaRTA)
 This repo contains the code of our paper  [Sparsity May Be All You Need: Sparse Random Parameter Adaptation](https://arxiv.org/pdf/2502.15975).
 
 ## Overview
