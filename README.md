@@ -15,15 +15,17 @@ SpaRTA is a new PEFT technique for adapting LLMs to domain-specific tasks that m
 
 ## Installation
 ```bash
-
+git clone https://github.com/IBM/SpaRTA.git
+cd SpaRTA
+conda create -n sparta
+conda activate sparta
+pip install -r requirements.txt
 ```
 ## Usage
 
 ```python
 
 ```
-
-## Contributing
 
 ## Citation
 ```bibtex
