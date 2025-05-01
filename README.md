@@ -24,8 +24,9 @@ pip install -r requirements.txt
 ## Usage
 
 ```python
-
+ python sparta/classification.py
 ```
+You can also adjust the SFT traning configuration by editing `sparta/sft_config.yaml`.
 
 ## Citation
 ```bibtex
