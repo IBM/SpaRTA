@@ -14,17 +14,26 @@ SpaRTA is a new PEFT technique for adapting LLMs to domain-specific tasks that m
 
 
 ## Installation
+
+Clone the repository:
 ```bash
 git clone https://github.com/IBM/SpaRTA.git
-cd SpaRTA
-conda create -n sparta
-conda activate sparta
+```
+
+Create a new environment named `sparta` (recommended):
+```bash 
+conda env create -f environment.yml
+```
+
+Alternatively, you can install the necessary dependencies in an existing environment:
+```bash
 pip install -r requirements.txt
 ```
-## Usage
 
+## Usage
 ```python
- python sparta/classification.py --help
+conda activate sparta
+python SpaRTA/sparta/classification.py --help
 ```
 
 ## Citation
