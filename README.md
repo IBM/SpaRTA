@@ -20,7 +20,7 @@ Clone the repository:
 git clone https://github.com/IBM/SpaRTA.git
 ```
 
-Create a new environment named `sparta` (recommended):
+Create a new environment named `sparta` (recommended) with all the necessary dependencies:
 ```bash 
 conda env create -f environment.yml
 ```
