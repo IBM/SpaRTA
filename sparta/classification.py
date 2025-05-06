@@ -13,9 +13,7 @@ log = logger
 
 BASE_MODELS = ['google/gemma-2b',
                'mistralai/Mistral-7B-v0.3',
-               'ibm-granite/granite-3.0-2b-base',
-               'google/gemma-2-27b',
-               'EleutherAI/pythia-160m']
+               'google/gemma-2-27b']
 
 INSTRUCT_MODELS = ['google/gemma-2b-it',
                    'mistralai/Mistral-7B-Instruct-v0.3']
